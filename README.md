@@ -37,15 +37,13 @@ Folder ini berisi kode untuk menjalankan forward proxy dan melakukan scraping HT
 
 ### Gambar Contoh Hasil Running
 Terminal file proxy.py
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/475e61c7-22a1-4c27-bfa8-3bb4e4c0b8c9)
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/82148b4d-6943-4909-9d9e-06ad112d67b1)
 
 Terminal find_software.py
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/c1cbc503-c9e0-442c-b719-9e26cc734036)
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/de4a55d8-4652-4d90-bf7b-4824cde4b68b)
 
 Terminal curl
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/b11e03a6-44cd-4326-a672-6c6ae4f65cfc)
-
-
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/29c7fd6c-4240-4ba9-8ce5-bcada91d8d10)
 
 ## 2_wikipedia_scraper_bash
 
@@ -70,15 +68,13 @@ Folder ini berisi skrip Bash untuk melakukan scraping Wikipedia melalui proxy. B
 
 ### Gambar Contoh Hasil Running
 Terminal file proxy.py
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/de3d0a55-9163-4e65-9d80-2b90d510a8a9)
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/38c98fa6-8398-45db-9d36-6490f318acdc)
 
 Terminal bash
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/9a35d4ad-6ed0-466f-bef7-32996741d844)
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/a2a359c7-b114-4406-abb1-6dc50034d0b9)
 
 File json
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/2004ec7c-2a54-4eaf-9e88-02be13381848)
-
-
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/3f861887-208f-4bf4-9f76-82bd6ed27c46)
 
 ## 3_wikipedia_scraper_links
 
@@ -95,11 +91,10 @@ Folder ini berisi skrip Python untuk melakukan scraping pada sejumlah link Wikip
 
 ### Gambar Contoh Hasil Running
 Terminal wikipedia_scraper_links.py
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/3b28354d-4252-4d28-80a6-20865653341d)
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/88735b0c-b701-4400-b3c3-cb64200fabc1)
 
 File json
-![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer---Nolimit/assets/68578433/cca7a24b-fec2-4454-b08d-f10e7d550f48)
-
+![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/a6e1676f-b915-48c3-8c08-f5a762adbd7c)
 
 ---
 
