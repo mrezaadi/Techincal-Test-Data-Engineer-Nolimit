@@ -96,8 +96,6 @@ Terminal wikipedia_scraper_links.py
 File json
 ![image](https://github.com/mrezaadi/Techincal-Test-Data-Engineer-Nolimit/assets/68578433/a6e1676f-b915-48c3-8c08-f5a762adbd7c)
 
-### Batasan dan Asumsi :
-
-Scraper Wikipedia ini mengambil data dengan memanfaatkan tag HTML dari halaman https://en.wikipedia.org/wiki/{judul_artikel}. Oleh karena itu, untuk setiap halaman yang berbeda, perlu disesuaikan pengambilan data berdasarkan tag HTML yang digunakan.
 ---
-
+Batasan dan asumsi :
+Scraper Wikipedia ini mengambil data dengan memanfaatkan tag HTML dari halaman https://en.wikipedia.org/wiki/{judul_artikel}. Oleh karena itu, untuk setiap halaman yang berbeda, perlu disesuaikan pengambilan data berdasarkan tag HTML yang digunakan.
