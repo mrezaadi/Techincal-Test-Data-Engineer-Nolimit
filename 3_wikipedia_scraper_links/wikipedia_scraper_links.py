@@ -12,8 +12,7 @@ def get_page_content(url):
     - url (str): URL halaman web yang akan diambil kontennya.
 
     Returns:
-    - dict or None: Data halaman web yang telah diambil, termasuk judul, URL, konten, tanggal modifikasi terakhir,
-                   dan kategori. Mengembalikan None jika permintaan gagal atau konten tidak dapat diambil.
+    - dict or None: Data halaman web yang telah diambil, termasuk judul, URL, konten, tanggal modifikasi terakhir, dan kategori. Mengembalikan None jika permintaan gagal atau konten tidak dapat diambil.
     """
     # Mengirim permintaan GET ke URL
     response = requests.get(url)
