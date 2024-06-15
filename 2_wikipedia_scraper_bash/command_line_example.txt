@@ -1,6 +1,5 @@
 ./run_scraper.sh "https://en.wikipedia.org/wiki/Proxy_server"
 ./run_scraper.sh "https://en.wikipedia.org/wiki/Web_scraping"
-
 ./run_scraper.sh "https://en.wikipedia.org/wiki/Data_engineering" "http://localhost:9919"
 ./run_scraper.sh "https://en.wikipedia.org/wiki/Social_media" "http://localhost:9919"
 
