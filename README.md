@@ -1,5 +1,3 @@
-Berikut adalah file README yang telah disusun sesuai dengan ketentuan yang diberikan:
-
 ---
 
 # Techincal Test Data Engineer - Nolimit
